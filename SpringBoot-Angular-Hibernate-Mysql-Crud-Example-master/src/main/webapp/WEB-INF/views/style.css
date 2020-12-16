@@ -1,0 +1,5 @@
+/* Put your css in here */
+
+form .ng-invalid-cep {
+  border: solid 1px red;
+}
